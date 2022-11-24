@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajeev02kumar
+- 👋 Hi, I’m @Rajeev kumar
 - 👀 I’m interested in web developer 
 - 🌱 I’m currently learning btech cse in lovely professional university.
 - 💞️ I’m looking to collaborate on company 
